@@ -8,6 +8,8 @@
 <style></style>
 </head>
 <body>
+	<h3>폐기 기능</h3>
+	<p>커밋 하기전 변경된 내용을 최소하는 기능</p>
 
 </body>
 <script></script>
